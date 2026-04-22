@@ -1,2 +1,2 @@
 # new-Demo
-creating my first demo repo
+creating my first demo repo.
